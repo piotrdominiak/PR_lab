@@ -1,0 +1,128 @@
+
+objc[5803]: Class JavaLaunchHelper is implemented in both /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/bin/java (0x10b2034c0) and /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/libinstrument.dylib (0x10b2874e0). One of the two will be used. Which one is undefined.
+Set image size: n (#rows), m(#kolumns)
+25
+40
+@ W & M O f = N P } \ n 5 H I ^ " 7 P M s ? T E 7 } 2 O @ K E K _ 4 6 W Q ^ g D 
+w a } w = s + p y h w 8 u _ * $ ' V [ 7 - n H u ' = . S 6 A % b K + } s 3 7 p k 
+( " + @ w # 6 t l G ? U / r n < z 4 H @ c p S [ p M N 6 & * i b b 9 o X P S Z W 
+` + ' c k ~ [ 5 B N Z w f O s P < @ 5 2 { s ? # K I 1 t A r Z B I C ! S A + q > 
+& < M P J ^ h i [ a ' u ) w H f h R Y + } 7 b I % { ? ` l _ f ( v H j x 6 m z H 
+R U 8 ] \ * 6 < v H k v ] ~ P - u Q H l / , ` ] h Q D E ' ; Y j = c N - Q Y 0 B 
+E S V e o + h + 1 ^ : @ P ! g b f W 7 < D I R e y U w , g K 4 3 ] + , G v 1 8 x 
+9 d r $ Q k m & F R _ # ' d , 7 I c s r q n ^ I i x [ & u q f u [ m X Z s p ( V 
+: S < ' I 8 < ' & g ? Z . ` O G < 0 ~ v T , j E 1 > 5 9 ^ G x - k S ) N / u _ 7 
+G K Q W C N * k D x y } N F T y ^ X F o O p L " A 4 5 , Z S Y H L " C / _ 1 Y B 
+. f p Z c k f $ @ C N 7 U ) * z L h w ] I X V U b z d = r 7 G 2 " ( } [ D 0 r = 
+Q / g 4 p > t # H D i w g L G Q M 7 ` g ) Y M l Y } G C ) r 2 v / Y 5 P e Q E | 
+} \ + B + | a ` > | s / c G { + y u W " t c B " T A S 4 * > 0 Q j H q r W ~ E T 
+1 , ( o L u V X m J r a b # I y k { 7 ' # M 1 ' c # 3 E J = B B ' ; s ? C u { ` 
+0 x ~ ^ [ l a J 0 Z i } 0 < S S p 8 L } G T " + ! C v 7 $ } { : h C g N Z 8 , K 
+p O p h k ) E B C ' i J P w J & A # T } { a C Q _ 3 u ; = = G 3 F l [ H = k Z R 
+z v 0 @ ` % ! , i / o I ~ n ; n " K { y l 2 o b k / ] c p ` m z V & ? ^ b @ w u 
+m m { ? ? ; 5 r { Q n ^ b 4 d i 4 c A 1 K - < 1 5 W D 2 ? * Y { U 8 D o w o b ! 
+L K ; M U Y } t _ V B D ] e C " Z o ? i z { F s B 7 _ y ^ J ' = q t @ F L + Q Z 
+' % c Q - : } T l Y o ] " # T 4 \ r k k y 6 o e p \ S r s B 1 ` : ( # S J Z z h 
+< z F u . v z y e y O b ] ` e o 5 q . y = n D O T ! F z F B ` % H \ t Q $ N 9 . 
+y M k b C D # + l d s x ' 7 d . 2 p x ! 0 = C n s 9 > Z # { # 8 W B w X L ? t c 
+d : / o { < 0 $ 4 w ? f Q k V H } 0 f y : E % N ' G W N H Z t @ A ) } f V w B ` 
+! ? 3 5 t + 4 * Q 7 \ 2 ` Y T G H x B m | o \ > i M Z 5 ' 9 # p d { 7 5 V @ > w 
+D I K 3 t + & / ! - + m M # ! { ? u * t g y N h ; > q < g > N X R V o B > > R 9 
+
+
+! 10
+" 11
+# 15
+$ 6
+% 6
+& 9
+' 17
+( 6
+) 7
+* 9
++ 18
+, 9
+- 7
+. 7
+/ 11
+0 11
+1 10
+2 8
+3 7
+4 11
+5 12
+6 7
+7 17
+8 8
+9 7
+: 7
+; 7
+< 13
+= 13
+> 12
+? 15
+@ 12
+A 8
+B 17
+C 13
+D 12
+E 10
+F 9
+G 13
+H 16
+I 12
+J 8
+K 11
+L 9
+M 11
+N 14
+O 8
+P 9
+Q 17
+R 7
+S 13
+T 11
+U 7
+V 11
+W 10
+X 7
+Y 12
+Z 16
+[ 9
+\ 8
+] 9
+^ 11
+_ 9
+` 14
+a 6
+b 13
+c 12
+d 8
+e 7
+f 11
+g 10
+h 10
+i 10
+j 4
+k 15
+l 9
+m 9
+n 9
+o 15
+p 15
+q 7
+r 12
+s 13
+t 12
+u 14
+v 9
+w 16
+x 9
+y 15
+z 11
+{ 16
+| 4
+} 17
+~ 6
+
+Process finished with exit code 0

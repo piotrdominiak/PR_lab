@@ -1,0 +1,3 @@
+Tworze instancje Calka_callable
+xp = 1.0E-8, xk = 0.1, N = 2147483647
+dx oczekiwane = 0.0, dx koncowe 4.65661240958451E-11
